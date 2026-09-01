@@ -16,5 +16,6 @@ Promovido em 01/09/2026 (Fase 5 do saneamento do backlog). Origem: reconciliaç�
 | CAT-2 | Decidir conexão/aposentadoria dos 19 templates órfãos do funil de reunião | Zero uso desde a criação (03-12/07), nunca conectado a workflow | 23/08/2026 | Idem CAT-1 |
 | CAT-3 | Corrigir `status_meta` de `realbiz_reforco_es_ar` | Achado revertido — expectativa de "aprovado" era falsa, precisa reverificar na Meta | 23/08/2026 | Idem CAT-1 |
 | CAT-4 | Divergência de nomes `cobranca_feedback_corretor_*` + reclassificação Utilidade→Marketing | Baixa urgência, sem dano ativo confirmado | 23/08/2026 | Idem CAT-1 |
+| GOV-4 | Promover Baseline Oficial V1 (Artifact, 25/08) a documento Nível 1 oficial | **Contém fato já provado falso** (`lead_memoria_comercial` "0 linhas" em 25/08, hoje 1842+ fatos confirmados via MC-2) — promover agora recriaria o problema que esta série corrigiu em `CLAUDE.md`/Seção 8 | 01/09/2026 (decisão explícita do usuário: não promover) | Reconciliação fresca do Baseline contra o estado real, então reavaliar promoção |
 
 **Fora desta lista, de propósito**: `CAT-5` não entra aqui — é `NAO_CONFIRMADO`, não `FUTURO` (um item sem confirmação não pode ser chamado "válido, só não agora"). Permanece na fila de investigação/validação (ver `historico.md`, nota final, ou a Seção 8 do Backlog Executivo).
