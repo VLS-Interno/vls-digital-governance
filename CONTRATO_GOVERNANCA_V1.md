@@ -1,16 +1,16 @@
 ---
 documento: CONTRATO DE GOVERNANÇA VLS DIGITAL V1
-status: VIGENTE (local — aprovado pelo usuário em 25/08/2026; promoção formal ao GitHub pendente da criação do repositório vls-digital-governance)
+status: VIGENTE (promovido ao GitHub em 01/09/2026 — VLS-Interno/vls-digital-governance)
 data_producao: 2026-08-25
-data_promocao: 2026-08-25
+data_promocao: 2026-08-25 (VIGENTE local); 2026-09-01 (promoção formal ao GitHub)
 promovido_a_vigente: sim — aprovação explícita do usuário ("pode promover esse contrato como vigente"), registrada em memória de projeto
 supersedes: nenhum (é o primeiro)
-evidência_histórica_da_decisão: Fase 0 (reconciliação), Fase 0.1 (proposta de estrutura), Fase 0.2 (fechamento de arquitetura/Drive/critério de oficial) — não repetidas aqui, só referenciadas
+evidência_histórica_da_decisão: Fase 0 (reconciliação), Fase 0.1 (proposta de estrutura), Fase 0.2 (fechamento de arquitetura/Drive/critério de oficial), Mapa Organizacional GitHub (31/08, decisão de conta canônica) — não repetidas aqui, só referenciadas
 ---
 
 # Contrato de Governança VLS Digital V1
 
-**Status: VIGENTE** (aprovado pelo usuário em 25/08/2026). Ressalva honesta: este arquivo hoje vive na pasta de trabalho local (`vls-digital-governance/` na raiz do Drive do projeto), preparado para ser publicado como o repositório `vls-digital-governance` assim que criado no GitHub — não há hoje ferramenta de escrita no GitHub disponível nesta sessão para criar o repositório em si. A autoridade normativa deste documento, pelas suas próprias regras (Seção 1), só se completa quando ele estiver de fato em GitHub; até lá, é a versão vigente por decisão do usuário, mantida localmente.
+**Status: VIGENTE**, promovido ao GitHub em 01/09/2026 (`VLS-Interno/vls-digital-governance`, primeiro commit deste repositório). Aprovado pelo usuário em 25/08/2026; a autoridade normativa deste documento, pelas suas próprias regras (Seção 1), agora está completa — não é mais só a versão vigente por decisão do usuário mantida localmente, é o registro promovido.
 
 *Nota: a Seção 4 do brief chegou cortada de novo, terminando em "SUPERSEDED" sem fechar o diagrama. Completei o ciclo com o estado que faltava (EVIDÊNCIA BRUTA, que não entra na cadeia linear) e a leitura de "só 1 vigente por escopo" — avise se havia mais seções planejadas.*
 
@@ -102,4 +102,4 @@ Regras da cadeia:
 
 Por aplicação direta da Seção 4 a si mesmo: este contrato foi promovido a **VIGENTE** em 25/08/2026, por aprovação explícita do usuário ("pode promover esse contrato como vigente" — mesma régua do estágio 7 do `vls-method`, não inferida de "continue" ou silêncio). A partir de agora ele passa a valer como norma, não como proposta, para qualquer trabalho de governança neste projeto.
 
-**Uma etapa da promoção segue pendente, e é dita explicitamente aqui para não virar uma segunda Baseline congelada por omissão**: o commit final para dentro do repositório `vls-digital-governance` no GitHub não foi feito, porque essa ferramenta não está disponível nesta sessão. O que existe hoje é a versão local, em `vls-digital-governance/` na raiz do Drive do projeto, com a estrutura de pastas da Seção 2/Fase 0.1 já preparada e pronta para virar o primeiro commit assim que o repositório for criado (por você, ou por mim caso me passe as credenciais/URL de um repositório já criado).
+**Promoção ao GitHub concluída em 01/09/2026.** Depois de decidida a conta canônica (manter em `VLS-Interno`, não migrar para `VLS-Constutora-TI` — ver Mapa Organizacional GitHub, 31/08), este documento e a estrutura de pastas da Seção 2/Fase 0.1 foram commitados e enviados como primeiro commit de `VLS-Interno/vls-digital-governance`. O repositório existia como casco vazio desde antes de 25/08; este é o commit que o popula pela primeira vez.

@@ -1,6 +1,6 @@
 # vls-digital-governance
 
-**Status desta pasta**: staging local, preparada em 25/08/2026 para virar o repositório GitHub `vls-digital-governance` quando criado. Ainda não é um repositório git — é a estrutura de arquivos pronta para o primeiro commit.
+**Status desta pasta**: preparada em 25/08/2026 como staging local; promovida ao GitHub em 01/09/2026 como primeiro commit do repositório `VLS-Interno/vls-digital-governance` (decisão de conta canônica: manter em `VLS-Interno`, não `VLS-Constutora-TI`).
 
 ## Comece por aqui
 
